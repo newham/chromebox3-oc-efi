@@ -1,0 +1,5 @@
+# os system file
+.DS_Store
+.*
+APPLE/
+!.gitignore
