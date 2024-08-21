@@ -3,3 +3,4 @@
 .*
 APPLE/
 !.gitignore
+oldConfig.plist
