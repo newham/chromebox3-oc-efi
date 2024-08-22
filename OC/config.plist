@@ -144,21 +144,21 @@
                     <key>AAPL,ig-platform-id</key>
                     <data>AAAWWQ==</data>
                     <key>AAPL00,override-no-connect</key>
-                    <data>AP///////wBKixobAAAAACseAQSFAAB4/mQ1pVRPnicSUFQhCADRwKnAgcABAQEBAQEBAQEBcucAoPBgRZAwIDUAYWMhAAAaP9AAoPBwPoAwIDUAYWMhAAAaAAAA/ABSVEsgVUhEIEhEUgogAAAA/QAoPR6HPAAKICAgICAgAdICAz/xUQRMXV5fYGEAAAAAAGdoaWpr4wXAACMJfweDAQAA5Q8AAAwAZwMMABAAOHhn2F3EAXiIAeYGBQFpaU8COoAYcTgtQFgsRQBhYyEAAB5WXgCgoKApUDAgNQBhYyEAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbg==</data>
+                    <data>AP///////wAl4///AAAAAAcgAQOAPyR4Lta1rFFGniUOUFSlSwDRwLMAAQGBgAEBgcCBQKnACOgAMPJwWoCwWEoAeGghAAAaAAAA/QAwSyiEPAAKICAgICAgAAAA/AAyOEQxVQAgICAgICAgAAAA/wAwMDAwMDAwMDAwMDAwAfICAzPyTGFgXwSQERITHwECAyMJfweDAQAAagMMABAAOEIgAABn2F3EAXiAA+MF4wHiDwECOoAYcTgtQFgsRQBVUCEAAB5qXgCgoKApUDAgNQBVUCEAABoEdAAw8nBagLBYigBVUCEAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlQ==</data>
                     <key>device-id</key>
                     <data>FlkAAA==</data>
-                    <key>device_type</key>
-                    <string>VGA compatible controller</string>
                     <key>framebuffer-con1-enable</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con1-type</key>
                     <data>AAgAAA==</data>
                     <key>framebuffer-fbmem</key>
-                    <data>AACQAA==</data>
+                    <data>AAAAAw==</data>
                     <key>framebuffer-patch-enable</key>
                     <data>AQAAAA==</data>
+                    <key>framebuffer-stolenmem</key>
+                    <data>AAAwAQ==</data>
                     <key>framebuffer-unifiedmem</key>
-                    <data>AAAAgA==</data>
+                    <data>AAAAwA==</data>
                     <key>model</key>
                     <string>Intel HD Graphics 620</string>
                 </dict>
